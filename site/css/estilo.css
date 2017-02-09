@@ -1,0 +1,44 @@
+body{
+	background-color: #F0F8FF;
+}
+
+#img_capa{
+	width: 900px;
+	height: 140px;
+	position: center;
+}
+
+
+#head{
+	font-family: 'Baloo Paaji', cursive;
+	text-align: center;
+	background-color: #000000;
+	color: #000000;
+	font-size: 60px;
+	
+}
+
+
+#marcas{
+	background-color: #F0F8FF;
+	border: 25px ;
+}
+
+#half{
+	font-size: 45px;
+	font-family: 'Baloo Paaji', cursive;
+	color: #8B0000;
+}
+
+#text{
+	font-size: 20px;
+	font-family: 'Baloo Paaji', cursive;
+	color: #000000;
+	vertical-align; center;
+}
+
+#button{
+	font-size: 30px;
+	text-align: center;
+}
+
